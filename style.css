@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(163, 199, 231);
+}
+
+.contact {
+    text-align: right;
+}
+
+.telephone_number {
+    font-size: 33px;
+}
+
+.time {
+font-size: 25px;
+}
+
+.items {
+    background-color: rgb(183, 210, 233);
+}
+
+.item {
+background-color: rgb(212, 229, 245);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
