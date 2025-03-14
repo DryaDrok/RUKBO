@@ -7,28 +7,16 @@ h1 {
     color: #0a4c83;
 }
 
-.header_container {
-    display: flex;   
-    justify-content: space-between;
-}
-
-.contact {
-    text-align: right;
-}
-
-.telephone_number {
-    font-size: 33px;
-}
-
-.time {
-font-size: 25px;
-}
-
-.items {
+.item_container {
     display: flex;   
     justify-content: space-around;
 }
 
 .item {
     background-color: rgb(183, 210, 233);
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }

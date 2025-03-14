@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(163, 199, 231);
+}
+
+.div {
+    display: flex;
+    flex-direction: row;
+}
+
+.div2 {
+    display: flex;
+    flex-direction: column;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 2px solid black;
+}
