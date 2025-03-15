@@ -16,14 +16,6 @@ body {
     flex-direction: column;
 }
 
-.weight {
-    font-size: 17px;
-}
-
-.param {
-    font-size: 27px;
-}
-
 .price {
     font-size: 27px;
 }
